@@ -11,6 +11,9 @@ Repository includes the codes for detection of birds in a picture.<br>
 3. `Jupyter Notebook`
 4. `Deep Neural Networks`
 
+
+![Bird](https://user-images.githubusercontent.com/70912643/126863040-2dac7720-8f39-46b1-8fd8-ff862a205eeb.jpg)
+
 ### Dataset:
 The dataset being used is the Caltech-UCSD Birds dataset with 200 different bird species.  Full information is provided at the dataset link.
 #### `Dataset:`  [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html)
